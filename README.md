@@ -43,12 +43,9 @@ Bu proje, görsel tanıma alanında pratik bir uygulama geliştirmeyi amaçlamak
 Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları takip ediniz:
 
 1.  **Depoyu Klonlama veya İndirme:**
-    *   *(GitHub deposu oluşturulduktan sonra aşağıdaki komutları güncelleyebilirsiniz)*
-    *   GitHub kullanıyorsanız:
-        ```bash
-        git clone <github_repo_linkiniz> # Bu linki kendi reponuzla değiştirin
-        cd <proje_klasor_adiniz>
-        ```
+    
+        git clone https://github.com/ayseoklms/AI_Flower_Classifier.git
+             cd AI_Flower_Classifier
     *   Veya ZIP olarak indirip dosyaları bir klasöre çıkartın ve o klasöre gidin.
 
 2.  **Veri Setini Ayarlama:**
@@ -124,6 +121,7 @@ Eğitim süreci boyunca metriklerin epoch'lara göre değişimi aşağıdaki gra
 ## 8. Uygulama Arayüzü Ekran Görüntüsü 📸
 
 ![Gradio Çiçek Sınıflandırıcı Arayüzü](arayuz_goruntusu_and_output.png)
+*(Bu görüntünün çalışması için `arayuz_goruntusu_and_output.png` dosyasının proje ana klasöründe olması gerekir.)*
 
 ## 9. Olası Geliştirmeler ve Gelecek Çalışmalar 💡
 
